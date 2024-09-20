@@ -1,0 +1,11 @@
+{
+  "name": "sort_clutter",
+  "version": "1.0.0",
+  "description": "sort cluttred files into extension based folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arpit_hota",
+  "license": "ISC"
+}
