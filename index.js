@@ -20,7 +20,7 @@ import fs from "fs/promises"
 import fsn from "fs"
 import path from "path"
 
-let basepath = "C:\\Users\\arpit\\OneDrive\\Desktop\\WebDevelopment\\Backend\\Learn_node\\node_modules"
+let basepath = "C:\\UsersDesktop\\node_modules"   //folder link where the cluter files are present
 let files = await fs.readdir(basepath)
 
 for (const item of files) {
